@@ -20,7 +20,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- INCLUDE IMAGES WHEN APPROPRIATE -->
 
-![ReporterApp](http://www.reporter-app.com/assets/3xPhones_Aqua@2x-78543eb7163e7fb70b1b4f4c0c878fd2.png)
+![ReporterApp](https://img.huffingtonpost.com/asset/5698a9b91f00005000215f9e.jpeg?ops=scalefit_720_noupscale)
 
 **Source for graphic**: Reporter App., [_Reporter-app.com_](http://www.reporter-app.com/).
 
